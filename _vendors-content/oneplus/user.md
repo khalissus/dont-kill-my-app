@@ -1,6 +1,6 @@
 ---
 manufacturer: 
-    - oneplus
+    - sigma
 
 ---
 
